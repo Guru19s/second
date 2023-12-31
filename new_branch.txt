@@ -1,5 +1,6 @@
 created new branch
 and then
 get branch -a
+create a new branch in server than check and change the branch using the below mentioned code
 branch change 
     git checkout branch_name
