@@ -1,0 +1,5 @@
+created new branch
+and then
+get branch -a
+branch change 
+    git checkout branch_name
